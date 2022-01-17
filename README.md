@@ -78,7 +78,7 @@ Contributions are welcome. Please read our [contributing guidelines](https://git
 
 ## Facing any Issue?
 
-Have a look at some [common Issues](https://github.com/Sangwan5688/BlackHole/wiki/Common-Issues) that you might face. If your problem is not there, feel free to open an Issue :)
+Have a look at some [common Issues](https://github.com/arshadbarves/mint/wiki/Common-Issues) that you might face. If your problem is not there, feel free to open an Issue :)
 
 <!-- ## Want to test Beta Versions? Need help??
 
