@@ -90,4 +90,4 @@ You can join our [Telegram Channel](https://t.me/blackhole_official) or [Telegra
 
 ## What's New
 
-To read full changelog visit the [wiki page](https://github.com/Sangwan5688/BlackHole/wiki/Changelog)
+To read full changelog visit the [wiki page](https://github.com/arshadbarves/mint/wiki/Changelog)
