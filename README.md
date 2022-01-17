@@ -74,7 +74,7 @@ flutter run
 
 ## Contribute
 
-Contributions are welcome. Please read our [contributing guidelines](https://github.com/Sangwan5688/BlackHole/blob/main/CONTRIBUTING.md) before contributing.
+Contributions are welcome. Please read our [contributing guidelines](https://github.com/arshadbarves/mint/blob/main/CONTRIBUTING.md) before contributing.
 
 ## Facing any Issue?
 
