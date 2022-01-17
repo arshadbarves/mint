@@ -10,7 +10,7 @@ An Open-Source Music Player App which is inspired by [Blackhole](https://github.
 
 ### Dont forget to :star: the repo
 
-[![GitHub stars](https://img.shields.io/github/stars/arshadbarves/mint.svg?style=social&label=Star)](https://github.com//arshadbarves/mint) ![GitHub forks](https://img.shields.io/github/forks/arshadbarves/mint.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/arshadbarves.svg?style=social&label=Follow)
+[![GitHub stars](https://img.shields.io/github/stars/arshadbarves/mint.svg?style=social&label=Star)](https://github.com//arshadbarves/mint) [![GitHub forks](https://img.shields.io/github/forks/arshadbarves/mint.svg?style=social&label=Forks)](https://github.com/arshadbarves/mint/fork) ![GitHub followers](https://img.shields.io/github/followers/arshadbarves.svg?style=social&label=Follow)
 
 ## Download
 
